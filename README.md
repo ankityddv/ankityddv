@@ -2,6 +2,7 @@
 
 <p><em>Pre final year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Head of Design at <a href="https://github.com/ADG-VIT">ADG-VIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
+
 - 🤯 Lost 5 completed apps code from my mac. That's why I'm here.
 - 📱 I’m currently working on Homeversity app.
 - 💬 Ask me about iOS Development and UI/UX Designing.
@@ -19,7 +20,7 @@
 
 
 ### 📊 GitHub Stats:
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=ankityddv&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Ankit Yadav's github stats](https://github-readme-stats.vercel.app/api?username=ankityddv&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ### Connect with me:
 [![Twitter: ankityddv](https://img.shields.io/twitter/follow/ankityddv?style=social)](https://twitter.com/ankityddv)
