@@ -4,7 +4,7 @@
 </em></p>
 
 - 🤯 Lost 5 completed apps code from my mac. That's why I'm here.
-- 📱 I’m currently working on Homeversity app.
+- 📱 I’m currently working on TaskZero app.
 - 💬 Ask me about iOS Development and UI/UX Designing.
 
 ### Languages and Tools:
