@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p><em>Pre final year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Indie iOS Developer, Designer. My Apps -> <a href="https://twitter.com/dinero_in">Dinero</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Pre final year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Indie iOS Developer, Designer. My Apps -> <a href="https://apps.apple.com/us/app/dinero-subscription-manager/id1545370811">Dinero</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 - 🤯 Lost 5 completed apps codes my mac. That's why I'm here.
