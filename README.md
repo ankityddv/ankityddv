@@ -1,11 +1,11 @@
-### Hi there, I'm Ankit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Ankit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <p><em>Pre final year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Indie iOS Developer, Designer. My Apps -> <a href="https://apps.apple.com/us/app/dinero-subscription-manager/id1545370811">Dinero</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-- 🤯 Lost 5 completed apps codes my mac. That's why I'm here.
-- 📱 I’m currently working on Dinero.
-- 💬 Ask me about iOS Development and UI/UX Designing.
+- 🤯 `Lost 5 completed apps codes my mac. That's why I'm here.`
+- 📱 `I’m currently working on Dinero`
+- 💬 `Ask me about iOS Development and UI/UX Designing.`
 
 ### Languages and Tools:
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
