@@ -10,8 +10,12 @@
 - 💬 `Ask me about iOS Development and UI/UX Designing.`
 
 ### Languages and Tools:
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Swift" width="26px" src="https://ankityddv.github.io/img/skills/swift.png" />
+<img align="left" alt="XCode" width="26px" src="https://ankityddv.github.io/img/skills/Xcode.png" />
+<img align="left" alt="C++" width="26px" src="https://ankityddv.github.io/img/skills/c++.png" />
+<img align="left" alt="Python" width="26px" src="https://ankityddv.github.io/img/skills/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://ankityddv.github.io/img/skills/html.png" />
+<img align="left" alt="Css" width="26px" src="https://ankityddv.github.io/img/skills/css.png" />
 <br />
 <br />
 
