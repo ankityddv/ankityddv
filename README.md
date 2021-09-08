@@ -5,8 +5,7 @@
   
 </em></p>
 
-- 🤯 `Lost 5 completed apps code from my mac. That's why I'm here.`
-- 📱 `I’m currently working on a new project (will be published soon) and learning Node JS.`
+- 📱 `I’m currently working on a new app @TuddayApp will be out soon.`
 - 💬 `Ask me about iOS Development and UI/UX Designing.`
 
 ### Languages and Tools:
