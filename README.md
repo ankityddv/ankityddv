@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankityddv" target="blank"><img src="https://img.shields.io/twitter/follow/ankityddv?logo=twitter&style=for-the-badge" alt="ankityddv" /></a> </p>
 
-- 🔭 I’m currently working on [Taskbit](taskbit.io)
+- 🔭 I’m currently working on [Taskbit](http://taskbit.io)
 
 - 🌱 I’m currently learning **SwiftUI**
 
